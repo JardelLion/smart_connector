@@ -11,7 +11,7 @@ It standardises raw external information into Odoo-native models, enabling real-
 ## Key Features
 - **Automated Data Ingestion:** Uses Odoo ir.cron scheduled actions to periodically fetch data,ensuring your internal records remain up-to-date without manual intervention.
 - **Inteligent Normalisation:** Transforms complex,nested JSON responses into clean,realtional Odoo objects.
-- **Robust Error Handling:** Features built-in loggin and exponential back-off strategies to gracefully manage API downtime or rate-limiting.
+- **Robust Error Handling:** Features built-in logging and exponential back-off strategies to gracefully manage API downtime or rate-limiting.
 - **Actionable Dashboards:** Native integration with Odoo's graph and pivot views to visualise data trends,facilitatin informed strategic planning.
 - **Event-Driven Notification:** Configured to trigger alers(via Chatter or Email) when specific data thresholds are breached.
 
